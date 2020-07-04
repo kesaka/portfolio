@@ -795,6 +795,18 @@ a {
   background: #17214b;
 }
 
+.w06 .l-workCover {
+  background: #cec4b6;
+}
+
+.w06 .sp-ViewBox {
+  background: #d0c4b4;
+}
+
+.w06 .sp-ViewListItem {
+  margin: 0 auto;
+}
+
 @media all and (max-width: 768px) {
   .l-workCover {
     height: 90vh;
@@ -1282,6 +1294,10 @@ a {
 
 .w05 .carousel-block_txt {
   color: #17214b;
+}
+
+.w06 .carousel-block_txt {
+  color: #d0c4b4;
 }
 
 .carousel-block_txt_ja {
