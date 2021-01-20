@@ -807,6 +807,11 @@ a {
   margin: 0 auto;
 }
 
+.w07 .l-workCover,
+.w07 .sp-ViewBox {
+  background: #384766;
+}
+
 @media all and (max-width: 768px) {
   .l-workCover {
     height: 90vh;
@@ -1299,6 +1304,11 @@ a {
 .w06 .carousel-block_txt {
   color: #d0c4b4;
 }
+
+.w07 .carousel-block_txt {
+  color: #17214b;
+}
+
 
 .carousel-block_txt_ja {
   font-size: 20px;
