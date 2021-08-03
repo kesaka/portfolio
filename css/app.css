@@ -1030,7 +1030,7 @@ a {
 .sp-ViewList {
   display: flex;
   width: 70%;
-  margin: 0 auto;
+  margin: 0 auto -10px;
   padding: 100px 0 0;
   text-align: center;
 }
