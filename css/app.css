@@ -964,6 +964,7 @@ a {
   display: flex;
   margin: 0 0 100px 0;
   list-style: none;
+  justify-content: space-between;
 }
 
 @media all and (max-width: 768px) {
@@ -979,7 +980,6 @@ a {
 .l-workDetail .detail-list_item {
   font-size: 16px;
   font-weight: 600;
-  margin: 0 140px 0 0;
   letter-spacing: 1px;
 }
 
@@ -1018,7 +1018,7 @@ a {
 
 @media all and (max-width: 768px) {
   .l-workDetail .detail-comment_jp {
-    font-size: 11px;
+    font-size: 14px;
   }
 }
 
